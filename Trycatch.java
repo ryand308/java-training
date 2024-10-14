@@ -14,7 +14,7 @@ public class TryCatch {
             for(int i = 0; i <= list.size(); i++) {
                 System.out.println(list.get(i));
             }
-        }catch (ArrayOutOfBoundsException e) {
+        }catch (ArrayIndexOutOfBoundsException e) {
             e.getMessage();
             System.out.println("出現未定義行為。");
         }finally {
