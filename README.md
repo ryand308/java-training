@@ -1,3 +1,3 @@
 # java-training
-[google](www.google.com) <br/>
-[yahoo](www.yahoo.com)
+[google](http://www.google.com) <br/>
+[yahoo](http://www.yahoo.com)
